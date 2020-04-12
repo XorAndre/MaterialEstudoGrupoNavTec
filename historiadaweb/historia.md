@@ -21,3 +21,9 @@ O HTML na sua versão 1 foi divulgado na data de 1991, em sua primeira versão a
 ## A vinda do CSS
 
 Cascading Style Sheets (CSS) é um mecanismo para adicionar estilo a uma página web. Seu surgimento veio a partir de Outubro do ano de 1994, por Hakon Lie, que queria facilitar o desenvolvimento de sites (maneira de estilizar), na época era muito complexo. As pessoas utilizavam mais códigos para chegar a um resultado simples. Em 1995 O CSS foi apresentado para W3C, ela que estava começando a engantinhar aceitou a proposta e criou a partir daí uma equipe focada para manter o ciclo de vida do CSS. 
+
+## JavaScript agora o triângulo amoroso está completo
+
+Mesmo com a vinda do CSS, ainda faltava um ingrediente na receita de bolo, algo que pudesse animar as coisas e dar um outro nível na experiência dos usuários ao acessar uma páginam. Em !995 foi criado a primeira versão do EcmaScript a proposta da linguagem JavaScript era aumentar a interação nas páginas web que antes eram cruas.
+
+A linguagem de início foi projetada para paradigmas: orientado a eventos, imperativo e funcional. Um fato interessante é que muitos desenvolvedores na época (até hoje com os iniciates), confudem JavaScript com Java, um dos motivos que levaram a essa confusão foi a proximidade de datas de criação da linguagem e até mesmo em parte do nome onde dava uma ideia de que ambas eram iguais. 
